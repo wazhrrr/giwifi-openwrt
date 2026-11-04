@@ -37,6 +37,6 @@ chmod 755 giwifi-login_v2.2.sh
 giwifi-login.sh          # 检测在线状态，掉线则自动登（可以配和cron用）
 giwifi-login.sh login    # 强制登录（先登出再登录）
 giwifi-login.sh logout   # 登出
-giwifi-login.sh probe    # 只抓登录页并打印 sign/iv/pid，不提交
+giwifi-login.sh probe    # 只抓登录页并打印
 giwifi-login.sh diag     # 环境自检
 ```
