@@ -1,5 +1,5 @@
 # giwifi-openwrt
-giwifi认证脚本适用openwrt，通过shell脚本发送登陆请求  
+适用openwrt的giwifi认证脚本，通过shell脚本发送登陆请求  
 可以通过cron实现自动执行脚本  
 
 
