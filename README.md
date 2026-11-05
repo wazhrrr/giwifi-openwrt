@@ -24,7 +24,7 @@ scp -O "giwifi-login_v2.2.sh" root@192.168.1.1:/home/
 ```
 改为可执行权限
 ```sh
-cd home
+cd /home
 chmod 755 giwifi-login_v2.2.sh
 ```
 运行
